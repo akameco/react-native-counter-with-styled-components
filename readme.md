@@ -1,5 +1,7 @@
 # react-native-counter-with-styled-components
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/react-native-counter-with-styled-components.svg)](https://greenkeeper.io/)
+
 - create-react-native-app
 - styled-components
 - flowtype
